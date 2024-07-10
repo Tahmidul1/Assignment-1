@@ -324,5 +324,69 @@ background: rgba(255, 223, 0, 0.05);
 
 }
 
+.sec-last{
+width: 1140px;
+height: 314px;
+left: 150px;
+right: 150px;
+padding: 64px 48px 64px 48px;
+border-radius: 16px;
+background-image: url('../images/handshake.jpg');
+background-size: cover;
+background-position: center;
+margin: 0 auto;
+margin-top: 150px;
+border-radius: 16px;
+box-shadow: 90px;
 
+.in-sec{
+  
+width: 1044px;
+height: 220px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+margin: auto;
+margin-top: 80px;
+/* border: 2px solid red; */
+}
+.sub-titel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sub-h{
+color: rgb(255, 255, 255);
+font-size: 32px;
+font-weight: 700;
+text-align: center;
+}
+.sub-p{
+color: rgb(255, 255, 255);;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+opacity: 0.7;
+}
+.for-f{
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+width: 548px;
+height: 37px;
+padding: 4px 5px 4px 5px;
+margin-top: 50px;
+}
+.for-s{
+
+width: 120px;
+height: 37px;
+color: rgb(13, 19, 33);
+font-size: 20px;
+font-weight: 600;
+margin: 0px 16px;
+}
 /* main part */
